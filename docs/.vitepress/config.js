@@ -20,13 +20,6 @@ export default defineConfig({
   themeConfig: {
     logo: '/klearancelogo.png',
     siteTitle: false,
-        localeLinks: {
-      text: '',
-      items: [
-        { text: 'English', link: '/en/' },
-        { text: 'Bahasa Indonesia', link: '/' }
-      ]
-    },
     nav: nav(),
     sidebar: {
       '/overview/': [
