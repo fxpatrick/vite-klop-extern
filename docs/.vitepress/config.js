@@ -77,13 +77,13 @@ export default defineConfig({
 
       '/klriuip': [
         {
-          text: 'Langkah Awal',
+          text: 'First Step',
           items: [
             { text: 'Eksternal', link: '/klriuip/usereksternal/' }, 
           ]
         },
         {
-          text: 'Dokumen',
+          text: 'Documents',
           items: [
             { text: 'PurchaseOrder', link: '/klriuip/dokumenpurchaseorder/' }, 
             { text: 'Shipment', link: '/klriuip/dokumeneshipment/' }, 

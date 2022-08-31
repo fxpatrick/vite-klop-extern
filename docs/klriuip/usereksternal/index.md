@@ -1,15 +1,13 @@
 # User Eksternal
-Berikut ini adalah panduan apa yang harus dilakukan user ketika menggunakan Klearance One Portal
-
+The following is a guide on what users should do when using Klearance One Portal
 ## Login
-1.	Buka link Invite yang sudah dikirimkan melalui Email
-2.	Masukkan email & password yang ada di email
-3.	Membuat password baru
-4.	Login menggunakan email & password baru yang sudah dibuat
-5.	Apabila anda adalah Kawasan Berikat, maka anda juga akan diminta mengisikan data perusahaan anda
+1. Open the Invite link that has been sent via Email
+2. Enter email & password from the email
+3. Create a new password
+4. Login using the new email & password that was created
 
-## Pengecekan Purchase Order
+## Guide Purchase Order
 [Purchase Order](/klriuip/dokumenpurchaseorder/)
 
-## Pembuatan Dokumen Shipment
+## Guide Document Shipment
 [Shipment](/klriuip/dokumeneshipment/)

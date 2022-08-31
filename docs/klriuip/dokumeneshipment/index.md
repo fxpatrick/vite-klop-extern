@@ -1,31 +1,31 @@
 # Shipment
-Apabila user ingin mengirimkan barang untuk memenuhi **Purchase Order** yang diterima, maka user dapat membuat dokumen di menu **Shipment**.
+If user wants to send goods to fulfill the **Purchase Order** received, then user can create a document in the **Shipment** menu.
 
-## Via Import Template
-Untuk melakukan pembuatan dokumen Shipment user bisa menggunakan template yang sudah disedikan.
+## From Import Template
+To make a Shipment document, user can use the template that has been provided.
 
-1.	Klik tombol **Template**
-2.	Lengkapi data untuk sheet **Shipment, Detail, dan Document**
-3.	Id pada sheet Shipment digunakan untuk menghubungkan dengan Detail dan Document
-4.	Untuk pengisian **Port** menggunakan Kode Port ( ex: **IDTPP** untuk Tanjung Priok)
-5.	Untuk pengisian **Tanggal** menggunakan format : **dd/mm/yyyy** or **yyyy-mm-dd**
-6.	Setelah seluruh data **TemplateShipment.xlsx** sudah dilengkapi, bisa di Import menggunakan tombol **Import**.
-7.	Setelah import berhasil, maka akan muncul data sesuai yang diisikan di template tersebut, dan status nya adalah **Draft**
-8.	Untuk melihat data dokumen tersebut, user dapat mengklik number yang diinginkan
-9.	Apabila seluruh data sudah dilengkapi, user dapat menekan tombol **Submit**
-10.	Apabila sudah selesai, maka dokumen Shipment tersebut akan berstatus **Ready**
-11.	Setelah Pengusaha KB memproses **Shipment** yang dikirimkan dan sudah membuat dokumen PIB nya, maka status dokumen Shipment tersebut akan menjadi **Converted to PIB**
+1. Click **Template** button
+2. Complete the data for the sheet **Shipment, Detail, and Document**
+3. The id on the Shipment sheet is used to link with Details and Documents
+4. For fill in **Port** use the Port Code (ex: **IDTPP** for Tanjung Priok)
+5. To fill in **Date** use the format: **dd/mm/yyyy** or **yyyy-mm-dd**
+6. After all the **TemplateShipment.xlsx** data has been completed, it can be imported using the **Import** button.
+7. After the import is complete, the data in the template will be formed into a shipment document, and the status is **Draft**
+8. To view the document data, user can click the desired number
+9. If all data has been completed, user can press the **Submit** button
+10. When it is finished, the Shipment document will be in the status of **Ready**
+11. After user internal has processed the Shipment docomuent and has made the PIB document, the status of the Shipment document will be **Converted to PIB**
 
-## Via Tambah Baru
-Untuk melakukan pembutan dokumen manual, user bisa menggunakan tombol **Tambah Baru** untuk pembuatan dokumen.
+## From Add New Button
+To perform manual document creation, users can use the **Add New** button for document creation.
 
-1.	Klik tombol **Tambah Baru**
-2.	Setelah user menekan tombol **Tambah Baru**, maka user akan diminta untuk melengkapi data yang harus diisi dengan lambang *
-3.	Setelah sudah melengkapi data yang diperlukan user dapat menekan tombol **Simpan**
-4.	Setelah itu akan muncul 3 tab baru, yaitu **Purchase Order, Goods, dan Vendor Documents**
-5.	Pada tab **Purchase Order** user dapat menggunakan tombol **Get All Outstanding**, untuk mengirimkan seleuruh **Purchase Order** yang berstatus **New**, atau menggunakan tombol **Choose Purchase Order**, dengan tombol **Choose Purchase Order** user dapat memilih apakah akan mengirimkan berdasarkan **Purchase Oder** atau per unit nya.
-6.	Setelah seluruh data dilengkapi maka user dapat menekan tombol **Submit** untuk menyelesaikan dokumen **Shipment**
-7.	Apabila sudah selesai, maka dokumen Shipment tersebut akan berstatus **Ready**
-8.	Setelah Pengusaha KB memproses Shipment yang dikirimkan dan sudah membuat dokumen PIB nya, maka status dokumen Shipment tersebut akan menjadi **Converted to PIB**
+1. Click **Tambah Baru**
+2. After user press the **Add New** button, user will be asked to complete the data that must be filled with the symbol *
+3. After completing the required data, user can press the **Save** button
+4. After that, 3 new tabs will appear, namely **Purchase Order, Goods, and Vendor Documents**
+5. On the **Purchase Order** tab user can use the **Get All Outstanding** button, to send all **Purchase Orders** with **New** status, or use the **Choose Purchase Order** button, with the **Choose Purchase Order** button the user can choose whether to ship based on **Purchase Oder** document or by per unit.
+6. After all data is completed, user can press **Submit** button to complete the document **Shipment**
+7. When it is finished, the Shipment document will be in the status of **Ready**
+8. After the user internal has processed the Shipment document and has made the PIB document, the status of the Shipment document will be **Converted to PIB**
 
 

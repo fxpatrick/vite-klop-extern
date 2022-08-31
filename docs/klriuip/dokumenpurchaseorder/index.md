@@ -1,8 +1,8 @@
 # Purchase Order
-Apabila pembeli telah membuat dokumen **Purchase Order**, maka user akan melihat **Purchase Order** Number yang sudah dibuat oleh pembeli dan status nya adalah **New**
-1.	User dapat klik Nomor **Purchase Order** tersebut untuk melihat data dokumen **Purchase Oder** tersebut
-2.	Apabila user ingin memenuhi **Purchase Order** tersebut, user dapat menggunakan tombol **Process Shipment**
-3.	Memilih **Shipment Type**
-4.	Tekan tombol **Confirm**
-5.	Secara otomatis akan membuatkan dokumen Shipment, dan user dapat melengkapi data – datanya, data yang harus diisi memiliki tanda *
-6.	Setelah User menyelesaikan dokumen Shipment, maka status **Purchase Order** Number tersebut akan menjadi **Completely Fullfiled**
+If buyer has made a **Purchase Order** document, then user will see the **Purchase Order** Number that has been created by the buyer and the status is **New**
+1. User can click the **Purchase Order** number to view the **Purchase Order** document data
+2. If user wants to fulfill the **Purchase Order**, then user can use the **Process Shipment** button
+3. Choose **Shipment Type**
+4. Press the **Confirm** button
+5. Automatically will create a Shipment document, and then user can complete the data, the data that must be filled has the symbol *
+6. After user completes the Shipment document, the status of **Purchase Order** Number will be **Completely Fullfiled**
