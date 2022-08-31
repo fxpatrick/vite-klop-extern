@@ -77,25 +77,16 @@ export default defineConfig({
 
       '/klriuip': [
         {
-          text: 'Langkah Awal',
+          text: 'First Step',
           items: [
-            { text: 'Mengundang Vendor', link: '/klriuip/mengundangvendoriuip/' }, 
             { text: 'Eksternal', link: '/klriuip/usereksternal/' }, 
           ]
         },
         {
-          text: 'Dokumen',
+          text: 'Documents',
           items: [
-            { text: 'Kepabeanan', link: '/klriuip/dokumenbc/' }, 
-            { text: 'Internal', link: '/klriuip/dokumeninternal/' }, 
-            { text: 'Eksternal', link: '/klriuip/dokumeneksternal/' }, 
-          ]
-        },
-        {
-          text: 'Integrasi',
-          items: [
-            { text: 'Sync Client', link: '/klriuip/syncclient/' }, 
-            { text: 'PIB', link: '/klriuip/pib/' }, 
+            { text: 'PurchaseOrder', link: '/klriuip/dokumenpurchaseorder/' }, 
+            { text: 'Shipment', link: '/klriuip/dokumeneshipment/' }, 
           ]
         }
       ]
@@ -111,7 +102,7 @@ function nav() {
   return [
     { text: 'Overview', link: '/overview/klearance', activeMatch: '/overview/klearance' },
     { text: 'Klearance KB', link: '/klrkb/mengundangvendorkb/', activeMatch: '/klrkb' },
-    { text: 'Klearance IU/IP', link: '/klriuip/mengundangvendoriuip/', activeMatch: '/klriuip' },
+    { text: 'Klearance IU/IP', link: '/klriuip/usereksternal/', activeMatch: '/klriuip' },
     { text: 'Term of Services', link: '/legal/tos', activeMatch: '/legal/tos' },
   ]
 }
