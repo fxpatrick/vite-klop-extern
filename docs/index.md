@@ -1,21 +1,21 @@
 ---
 layout: home
 hero:
-  name: Aplikasi pelaporan dokumen Bea Cukai
+  name: Customs Document Reporting Application
 
-  tagline: Data terjamin aman, pengoperasian mudah, Customs Clearance dapat dilakukan di mana saja, kapan saja
+  tagline: Guaranteed safe data, easy operation, Customs Clearance can be done anywhere, anytime
   actions:
     - theme: brand
-      text: Mulai Belajar
+      text: Star Learning
       link: /overview/klearance
 features:
   - icon: ⚡️
-    title: Integrasi Cepat
-    details: Dengan kemampuan komputer yang minimal Anda dapat mengikuti panduan ini untuk melakukan integrasi
+    title: Quick Integration
+    details: With minimum computer skills you can follow this guide to do the integration
   - icon: 📊
-    title: Kontrol Data Akurat
-    details: Data pelaporan Kepabeanan lebih dapat dipertanggungjawabkan 
+    title: Accurate Data Control
+    details: Customs reporting data is more accountable
   - icon: 🛠️
     title: Customizable
-    details: Tim SMART (https://smartconsultant.co) selalu siap membantu jika kustomisasi dibutuhkan oleh perusahaan Anda
+    details: SMART Team (https://smartconsultant.co) always ready to help if customization is needed by your company
 ---
