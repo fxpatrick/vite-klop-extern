@@ -2,7 +2,7 @@
 Klearance One Portal is a supplier portal application that is useful for storing all complementary documents and communication solutions between the supplier and the buying company in terms of completing the trade documents required by the buying company.
 
 ## Klearance architecture
-![](Klearance%20Architecture.svg)
+![](KlearanceArchitecture.svg)
 1. The Buying Company will make a Purchase Order document, and this Purchase Order document will be sent directly to the Supplier based on the vendor name
 2. Overseas or domestic vendors will receive a Purchase Order document that has been requested from buying company, and the vendor will make a shipment document
 3. Shipment documents that have been completed by the supplier will be sent directly to buying company and can be used as PIB documents by buying company later
